@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг»
 
-* Студент: [Владимир Полозов](https://up.htmlacademy.ru/javascript/26/user/1246231).
-* Наставник: `Неизвестно`.
+* Студент: [Владимир Полозов](https://htmlacademy.ru/profile/redshucov).
+* Наставник: [Антон Попов](https://htmlacademy.ru/profile/joker).
 
 ---
 
